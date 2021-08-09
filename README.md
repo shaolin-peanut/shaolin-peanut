@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shaolin-peanut
+- 👀 I’m interested in lots of different things. Will fill up this readme when I have some time one day
+- 🌱 I’m currently learning strict C programming in school 42
+- 💞️ I’m looking to collaborate on: (todo: fill this shit up)
+- 📫 Reach me on twitter @samuelbars
