@@ -1,9 +1,5 @@
 - Hey I'm shaolin_peanut, a small but mighty chad, gaining in strength everyday.
   - Coming for you soon
-- 👀 I have a gazillion interests, otherwise known as ADHD. Biggest interests now:
-  - Holistic health (mitochondrial metabolism, autophagy, circadian biology, etc)
-  - Hacking the learning process. How do our brains learn best? I could research, but for now I'd rather experiment, trying to learn hard things and playing around with psychology, notetaking mediums (excalidraw...), structures for information (graph-based like obsidian, vs folders...), and p2p learning (school 42).
 - 🌱 I’m currently learning strict C programming in school 42, badge below shows where I'm at
   - [![sbars's 42 stats](https://badge42.vercel.app/api/v2/cl1yzv2a0004009ktxup1wxxg/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
-- 💞️ I’m looking to collaborate on: (todo: fill this shit up)
 - 📫 Reach me on twitter @samuelbars
