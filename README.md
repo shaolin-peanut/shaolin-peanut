@@ -1,4 +1,4 @@
-- Hey I'm shaolin_peanut. I love the sun, technology, and food.
+- Hey I'm shaolin_peanut. I love the sun, technology, and good healthy food.
 - Principles I wanna live by
   - Kairos
   - Entheos
