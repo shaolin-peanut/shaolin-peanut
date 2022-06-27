@@ -4,8 +4,9 @@
   - Entheos
   - Vitality
   - Intuitive understanding
-- 🌱 I’m currently learning strict C programming in school 42, badge below shows where I'm at
+- 🌱 I’m currently learning strict C programming in school 42, badge below shows where I'm at. I've published some of the projects I've done at school on here, when the code was worth sharing publicly.
   - [![sbars's 42 stats](https://badge42.vercel.app/api/v2/cl1yzv2a0004009ktxup1wxxg/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
+  - I intend to write more documentation to explain my projects, and notions I acquired by completing them.
 - 📫 Reach me on twitter @samuelbars
 - Github stats
   - [![Shaolin Peanut's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaolin-peanut)](https://github.com/anuraghazra/github-readme-stats)
