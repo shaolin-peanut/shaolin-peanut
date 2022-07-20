@@ -1,12 +1,11 @@
-- Hey I'm shaolin_peanut. I love the sun, technology, and good healthy food.
-- Principles I wanna live by
-  - Kairos
-  - Entheos
-  - Vitality
-  - Intuitive understanding
+- Hey I'm shaolin_peanut. I love the sun, technology, and the pursuit of knowledge and wisdom.
 - 🌱 I’m currently learning strict C programming in school 42, badge below shows where I'm at. I've published some of the projects I've done at school on here, when the code was worth sharing publicly.
   - [![sbars's 42 stats](https://badge42.vercel.app/api/v2/cl1yzv2a0004009ktxup1wxxg/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
   - I intend to write more documentation to explain my projects, and notions I acquired by completing them.
-- 📫 Reach me on twitter @samuelbars
-- Github stats
-  - [![Shaolin Peanut's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaolin-peanut)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 I poast a bunch on twitter at @samuelbars, good and bad takes I guess. You can message me there.
+- I'm too busy with 42 to do my own projects yet, but... If you're interested in some of the subjects below, reaach out!
+  - Tools for thought, like Obsidian, Logseq, Roam, etc. I'm not a Notion fan. Basically creating new mediums to expand possibilities for individual and collective thought, sense-making, decentralized research, etc
+  - Infrastructure for self-sovereign and interoperable web (what early internet founders and web 3 was trying to do, not what it is now)
+  - Open source hardware
+  - AI for ecology (like modelling complex systems)
+  - And other things I don't remember all my interests, will add when I do
