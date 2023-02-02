@@ -4,7 +4,7 @@
   - I intend to write more documentation to explain my projects, and notions I acquired by completing them.
 - I'm too busy with 42 to do my own projects yet, but... If you're interested in some of the subjects below, reaach out!
   - Tools for thought, like Obsidian, Logseq, Roam, etc. I'm not a Notion fan. Basically creating new mediums to expand possibilities for individual and collective thought, sense-making, decentralized research, etc
-  - Infrastructure for self-sovereign and interoperable web (what early internet founders and web 3 was trying to do, not what it is now)
+  - Infrastructure for self-sovereign and interoperable web (what early internet founders and web 3 was trying to do, not what it is now). http://worrydream.com/refs/ is a great archive for literature around that
   - Open source hardware
   - AI for ecology (like modelling complex systems)
   - And other things I don't remember all my interests, will add when I do
