@@ -1,10 +1,11 @@
 - Hey I'm shaolin_peanut. I love the sun, technology, and the pursuit of knowledge and wisdom.
 - 🌱 I’m currently learning strict C programming in school 42, badge below shows where I'm at. I've published some of the projects I've done at school on here, when the code was worth sharing publicly.
   - [![sbars's 42 stats](https://badge42.vercel.app/api/v2/cl1yzv2a0004009ktxup1wxxg/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
-  - I intend to write more documentation to explain my projects, and notions I acquired by completing them.
-- I'm too busy with 42 to do my own projects yet, but... If you're interested in some of the subjects below, reaach out!
-  - Tools for thought, like Obsidian, Logseq, Roam, etc. I'm not a Notion fan. Basically creating new mediums to expand possibilities for individual and collective thought, sense-making, decentralized research, etc
-  - Infrastructure for self-sovereign and interoperable web (what early internet founders and web 3 was trying to do, not what it is now). http://worrydream.com/refs/ is a great archive for literature around that
+- Things that I'm interested in, which are related to technology in some way
+  - Tools for thought, like Obsidian, Logseq, Roam, etc. I'm not a Notion fan. Basically creating new mediums to expand possibilities for individual and collective thought, sense-making, decentralized research, etc. It's not about the tool but about the system you create by using and configuring the tool(s).
+  - Infrastructure for self-sovereign and interoperable web (what early internet founders and web 3 were trying to do, not what it is now). http://worrydream.com/refs/ is a great archive for literature around that
   - Open source hardware
-  - AI for ecology (like modelling complex systems)
-  - And other things I don't remember all my interests, will add when I do
+  - AI to use energy better (Gunter Pauli is doing interesting work in that direction).
+  - regenerative agriculture, mycology, apiculture, etc. Interested in any kind of tech that can support it, maybe tiny surface/below-surface drones that can scan soil and, using AI, make a really good asessment of soil health/needs.
+  - Quantum computing looks cool
+  - Materials science (aka finding better materials) and tinkering to re-create tech on those, to stop the nightmare of rare metals extraction (as much for computers as for the "green" revolution). Electric car batteries, solar panels, wind turbines, we're brutally trashing the planet to get the metals to build these https://twitter.com/JohnLeePettim13/status/1614178348694904837?s=20&t=Nl7rzCMsS6WP4jUxt0CmjQ
