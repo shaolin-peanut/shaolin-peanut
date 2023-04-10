@@ -1,4 +1,4 @@
-- Hey I'm shaolin_peanut. I love the sun, technology, and the pursuit of knowledge and wisdom.
+- Welcome to my Github. I love the sun, technology, and the pursuit of knowledge and wisdom.
 - 🌱 I’m currently learning strict C programming in school 42, badge below shows where I'm at. I've published some of the projects I've done at school on here, when the code was worth sharing publicly.
   - [![sbars's 42 stats](https://badge42.vercel.app/api/v2/cl1yzv2a0004009ktxup1wxxg/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
 - Things that I'm interested in, which are related to technology in some way
