@@ -10,7 +10,7 @@
   - Quantum computing looks cool
   - Materials science (aka finding better materials) and tinkering to re-create tech with those, to stop the pollution from rare metals extraction
 - My CS education
-  - Intro
+  - Introduction. I learned C, now I also want to introduce myself to functional programming
     - [x] 42 Piscine and first projects
     - [ ] Brown University's cs19 (in progress)
     - [ ] SICP
