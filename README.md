@@ -9,3 +9,25 @@
   - regenerative agriculture, mycology, apiculture, etc. Interested in any kind of tech that can support it, maybe tiny surface/below-surface drones that can scan soil and, using AI, make a really good asessment of soil health/needs.
   - Quantum computing looks cool
   - Materials science (aka finding better materials) and tinkering to re-create tech with those, to stop the pollution from rare metals extraction
+- My CS education
+  - Intro
+    - [x] 42 Piscine and first projects
+    - [ ] Brown University's cs19 (in progress)
+    - [ ] SICP
+  - Algorithms
+    - [x] ft_pushswap @ 42
+    - [ ] still deciding what material to add here, there are options
+  - Computer Architecture
+    - [ ] [nand2tetris](nand2tetris.org]
+    - [ ] CMU 15-213: Intro to Computer Systems
+    - [ ] or/and [this](https://cs61c.org/fa23/)
+  - Operating Systems
+    - [ ] probably OSTEP (Operating Systems in Three Easy Pieces)
+  - Databases
+    - [CMU 15-445: Database Systems](https://15445.courses.cs.cmu.edu/spring2024/). Lectures are on Youtube for previous years
+    - [CMU 15-721: Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/) same teacher
+  - Networking
+    - [x] [ft_irc](https://github.com/ldominiq/ft_irc)
+    - [ ] [15-441/641 Computer Networks](https://computer-networks.github.io/sp19/lectures.html), would be nice if I can find lectures but pdfs and readings are pretty good already
+    - [ ] Unix Network Programming for more (won't do it all, just nitpicking)
+  - Advanced
