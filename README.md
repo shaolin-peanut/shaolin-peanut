@@ -18,7 +18,7 @@
     - [x] ft_pushswap @ 42
     - [ ] still deciding what material to add here, there are options
   - Computer Architecture
-    - [ ] [nand2tetris](nand2tetris.org]
+    - [ ] [nand2tetris](nand2tetris.org)
     - [ ] CMU 15-213: Intro to Computer Systems
     - [ ] or/and [this](https://cs61c.org/fa23/)
   - Operating Systems
