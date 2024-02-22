@@ -12,7 +12,6 @@
 - My CS education
   - Introduction. I learned C, now I also want to introduce myself to functional programming
     - [x] 42 Piscine and first projects
-    - [ ] Brown University's cs19 (in progress)
     - [ ] SICP
   - Algorithms
     - [x] ft_pushswap @ 42
