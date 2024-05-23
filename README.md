@@ -1,32 +1,18 @@
-- Welcome to my Github. I love the sun, technology, and the pursuit of knowledge and wisdom.
-- 🌱 I’m currently finishing the common core (equivalent to a bachelor) of 42 Lausanne, a practice-based/p2p-learning only coding school. Most of my repositories are school projects, as they didn't leave me time for much else.
-  - [![sbars's 42 stats](https://badge42.vercel.app/api/v2/cl1yzv2a0004009ktxup1wxxg/stats?cursusId=21&coalitionId=193)](https://github.com/JaeSeoKim/badge42)
-- Things that I'm interested in, which are related to technology in some way
-  - Tools for thought, like Obsidian, Logseq, Roam, etc. I'm not a Notion fan. Basically creating new mediums to expand possibilities for individual and collective thought, sense-making, decentralized research, etc. It's not about the tool but about the system you create by using and configuring the tool(s).
-  - Infrastructure for self-sovereign and interoperable web (what early internet founders and web 3 were trying to do, not what it is now). http://worrydream.com/refs/ is a great archive for literature around that
-  - Open source hardware
-  - AI to use energy better (Gunter Pauli is doing interesting work in that direction).
-  - regenerative agriculture, mycology, apiculture, etc. Interested in any kind of tech that can support it, maybe tiny surface/below-surface drones that can scan soil and, using AI, make a really good asessment of soil health/needs.
-  - Quantum computing looks cool
-  - Materials science (aka finding better materials) and tinkering to re-create tech with those, to stop the pollution from rare metals extraction
-- My CS education
-  - Introduction. I learned C, now I also want to introduce myself to functional programming
-    - [x] 42 Piscine and first projects
-    - [ ] SICP
-  - Algorithms
-    - [x] ft_pushswap @ 42
-    - [ ] still deciding what material to add here, there are options
-  - Computer Architecture
-    - [ ] [nand2tetris](nand2tetris.org)
-    - [ ] CMU 15-213: Intro to Computer Systems
-    - [ ] or/and [this](https://cs61c.org/fa23/)
-  - Operating Systems
-    - [ ] probably OSTEP (Operating Systems in Three Easy Pieces)
-  - Databases
-    - [CMU 15-445: Database Systems](https://15445.courses.cs.cmu.edu/spring2024/). Lectures are on Youtube for previous years
-    - [CMU 15-721: Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/) same teacher
-  - Networking
-    - [x] [ft_irc](https://github.com/ldominiq/ft_irc)
-    - [ ] [15-441/641 Computer Networks](https://computer-networks.github.io/sp19/lectures.html), would be nice if I can find lectures but pdfs and readings are pretty good already
-    - [ ] Unix Network Programming for more (won't do it all, just nitpicking)
-  - Advanced
+- I'm a 42 Lausanne student. I finished the core and am doing specialisations, in math, functional programming, low-level stuff and more.
+- I have 3 big goals for this chapter of my life.
+	1. Learn math from the ground up, up to advanced applied topics
+	2. Understand computers on many layers, as well as I can, from logic gates to operating systems and network protocols
+	3. Fill all the gaps in my CS education to become a really good dev. For example there's still many data structures I don't know (trees, hash maps, etc), algorithms I'm unaware of and concepts I just don't get (like algorithm complexity).
+- To reach those goals I'm doing multiple projects and using external ressources
+	- [ ] finalize the "map" and embed here
+- currently I'm working on
+	- [ready set boole](https://github.com/shaolin-peanut/readysetboole) a project to discover boolean algebra and set theory, with a functional language. I chose ocaml. Many links on that page.
+	- [nm](https://github.com/shaolin-peanut/) to discover the structure of elf files, what symbols are for and then display them. You have to emulate the nm cli command (linux)
+- to do next
+	- ft_turing. More functional programming in ocaml. Modeling a turing machine
+	- malloc. recoding malloc to learn about memory management, mmap etc
+	- computorv1. parsing/evaluating/analyzing polynomial expression
+	- libasm. mini project to learn assembler
+	- matrix. linear algebra. I have a bunch of other ressources to learn the concepts, while doing the project itself. will list here when I get to it	
+	- ft_linux. Compile your linux distribution. Need to setup well and then have a long day uninterrupted to compile, and I doubt my archaic computer will survive it. This project opens up a branch of many projects in kernel dev / related stuff
+	- then we'll see, not sure yet
