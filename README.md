@@ -9,7 +9,7 @@
 	- hypertube, group project. Streaming video with torrents as the source, with a bunch of features (search, thumbnails, auth, comments, etc).
 	- [ready set boole](https://github.com/shaolin-peanut/readysetboole) a project to discover boolean algebra and set theory, with a functional language. I chose ocaml. Many links on that page.
  	- Working through all of the AOPS books
-  	- CMU 15-150 Introduction to Functional Programming (on ytb)
+  	- CMU 15-150 Introduction to Functional Programming. [lectures here](https://brandonspark.github.io/150/)
   	- libasm. mini project to learn assembler
 - to do next
 	- ft_turing. More functional programming in ocaml. Modeling a turing machine
