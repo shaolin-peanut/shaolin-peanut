@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaolin-peanut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaolin-peanut&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 - I'm a 42 Lausanne student. I finished the core and am doing specialisations, in math, functional programming, and a little bit of low-level things.
 - I have 3 big goals for this chapter of my life.
 	1. Learn math from the ground up, up to advanced applied topics.
