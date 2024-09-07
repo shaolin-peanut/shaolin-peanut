@@ -5,7 +5,7 @@
 	2. Understand computers on many layers, from logic gates to cpu architecture systems and network protocols
 	3. Fill the gaps in fundamental cs things. More algos and data structures
 - working on right now
-	- matcha. react web app, part of the OOP projects for 42's RNCP 6, and Database branch for RNCP 7
+	- [matcha](https://github.com/jreivilo/matcha). react web app, part of the OOP projects for 42's RNCP 6, and Database branch for RNCP 7
 	- [ready set boole](https://github.com/shaolin-peanut/readysetboole) a project to discover boolean algebra and set theory, with a functional language. I chose ocaml. Many links on that page.
  	- high school math with mathacademy.com. Transcripts available on request
 - to do next
