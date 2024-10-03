@@ -1,5 +1,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaolin-peanut&size_weight=0.5&count_weight=0.5&hide=roff,Objective-C&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-- I'm a 42 Lausanne student. I finished the core and am doing specialisations, in math, functional programming, and a little bit of low-level things.
+- I'm a 42 Lausanne student. I finished the common core of the cursus, and am doing specialisations in math, functional programming, and a little bit of low-level things.
+- Projects (todo: fill that in)
+	- Low level
+ 	- Data Science
+  	- Functional Programming, Math
 - I have 3 big goals for this chapter of my life.
 	1. Review high school math and work my way up to graduate math for fun and for coding
 	2. Understand computers on many layers, from logic gates to cpu architecture systems and network protocols
@@ -11,7 +15,6 @@
 - to do next
 	- hypertube, group project. Streaming video with torrents as the source, with a bunch of features (search, thumbnails, auth, comments, etc).
 	- ft_turing. More functional programming in ocaml. Modeling a turing machine
-	- malloc. recoding malloc to learn about memory management, mmap etc
 	- computorv1. parsing/evaluating/analyzing polynomial expression
 	- matrix. linear algebra
 - done
