@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaolin-peanut&size_weight=0.5&count_weight=0.5&hide=roff,Objective-C&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaolin-peanut&size_weight=0.5&count_weight=0.5&hide=roff,Jupyter%20Notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 - I'm a 42 Lausanne student. I finished the common core of the cursus, and am doing specialisations in math, functional programming, and a little bit of low-level things.
 - working on right now
 	- [matcha](https://github.com/jreivilo/matcha). react web app. I'm handling the frontend and notifications + chat
