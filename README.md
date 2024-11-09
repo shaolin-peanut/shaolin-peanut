@@ -1,13 +1,25 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaolin-peanut&size_weight=0.5&count_weight=0.5&hide=roff,Jupyter%20Notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-- I'm a 42 Lausanne student. I finished the common core of the cursus, and am doing specialisations in math, functional programming, and a little bit of low-level things.
-- working on right now
-	- [matcha](https://github.com/jreivilo/matcha). react web app. I'm handling the frontend and notifications + chat
-	- [ready set boole](https://github.com/shaolin-peanut/readysetboole) a project to discover boolean algebra and set theory, with a functional language. I chose ocaml. Many links on that page.
- 	- reviewing high school math with mathacademy.com. Transcripts available on request
-- Done
-	- 42's common core. Lots of projects in C, a few in C++, one webapp as a group project.
- 	- 6 month internship where I discovered databases, SQL on timeseries to make graphs in grafana, webdev projects in svelte, working with data/DBs/APIs in python, etc
-  	- [nm](https://github.com/shaolin-peanut/) to discover the structure of elf files, what symbols are for and then display them. You have to emulate the nm cli command (linux)
-  	- [linear regression](https://github.com/shaolin-peanut/ft_linear_regression), a simple linear regression
-  	- [dslr](https://github.com/shaolin-peanut/simple_softmax_dslr/). Small machine learning project, where you have to implement a softmax regression.
-  	- [libasm](https://github.com/shaolin-peanut/libasm). mini project to learn assembler
+- I'm a 42 Lausanne student. I finished the common core of the cursus, and am doing specialisations in math, functional programming, and low-level things.
+	- C/C++ projects. Systems programming mostly, some computer graphics
+        - [ft_nm](https://github.com/shaolin-peanut/) to discover the structure of elf files, what symbols are for and then display them. You have to emulate the nm cli command (linux)
+        - [julia and mandelbrot fractals explorer](https://github.com/shaolin-peanut/fract-ol)
+        - [libasm](https://github.com/shaolin-peanut/libasm). mini project to learn the basics of Intel 64 assembly
+       	- [Minishell](https://github.com/shaolin-peanut/Minishell). Writing a subset of bash's features. One of my favorite 42 projects
+        - [philosophers](https://github.com/shaolin-peanut/philosophers). Solving the dining philosophers problem with posix pthreads
+        - [pushswap](https://github.com/shaolin-peanut/42_push_swap) Sorting numbers using two stacks and a limited set of operations, with radix sort
+        - [pipex](https://github.com/shaolin-peanut/pipex) re-creating the cli command that does pipe redirection  
+   	- Python/Data-Science
+	   	- Small contributions at Hackatons:
+	   	- [Pro ML Training](https://github.com/shaolin-peanut/pro-ml-training). 3-day training hosted at 42 Lausanne, where I explored linear regression on different datasets and varying methods (with scikit-learn, or rolling it out by hand without even pandas, only numpy), and some data processing/feature-engineering/EDA with Python, numpy, pandas, matplotlib and seaborn.
+	   	- [linear regression](https://github.com/shaolin-peanut/ft_linear_regression), a simple linear regression
+	  	- [dslr](https://github.com/shaolin-peanut/simple_softmax_dslr/). Small machine learning project, where you have to implement a softmax regression (logistic regression but classifying in more than two classes, so sigmoid doesn't cut it)
+	- Web Development
+	     - [matcha](https://github.com/jreivilo/matcha). Dating app in React. Includes chat with matches, notifications over websockets, filterable/sortable explore page, editing your profile, uploading up to 5 profile pictures, and more interactions (like, block, report etc). I'm handling frontend and websockets
+	     - Two web apps during my internship, in Sveltekit (typescript)
+	     - [transcendence]() group project. I did oauth2 and leaderboard
+	- System Administration
+        - [inception](https://github.com/shaolin-peanut/Inception). An introduction to docker by setting a wordpress install with nginx and mariadb via docker-compose
+        - did a bunch of scripts to plug into databases, apis etc to move data around during my internship. I don't own the code though, no longer have it
+	   	- Born2BeRoot. Virtual machine setup, no repo because there was barely any code, just thorough VM setup (password policies, users, and a cron job running a script printing system info)
+	- Extra topics
+		- [ready set boole](https://github.com/shaolin-peanut/readysetboole) a project to discover boolean algebra and set theory, with a functional language. I chose ocaml. Many links on that page.
+	 	- reviewing high school math with mathacademy.com. Transcripts available on request
