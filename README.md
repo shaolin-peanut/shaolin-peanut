@@ -15,7 +15,7 @@
 	- Web Development
 	     - [matcha](https://github.com/jreivilo/matcha). Dating app in React. Includes chat with matches, notifications over websockets, filterable/sortable explore page, editing your profile, uploading up to 5 profile pictures, and more interactions (like, block, report etc). I'm handling frontend and websockets
 	     - Two web apps during my internship, in Sveltekit (typescript)
-	     - [transcendence]() group project. I did oauth2 and leaderboard
+	     - [transcendence](https://github.com/eprei/42_ft_transcendence) group project. I did oauth2 and leaderboard
 	- System Administration
         - [inception](https://github.com/shaolin-peanut/Inception). An introduction to docker by setting a wordpress install with nginx and mariadb via docker-compose
         - did a bunch of scripts to plug into databases, apis etc to move data around during my internship. I don't own the code though, no longer have it
