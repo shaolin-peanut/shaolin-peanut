@@ -1,6 +1,6 @@
 - I'm a 42 Lausanne student. I finished the common core of the cursus, and am doing specialisations in math, functional programming, and low-level things.
 	- C/C++ projects. Systems programming mostly, some computer graphics
-        - [ft_nm](https://github.com/shaolin-peanut/) to discover the structure of elf files, what symbols are for and then display them. You have to emulate the nm cli command (linux)
+        - [ft_nm](https://github.com/shaolin-peanut/ft_nm) to discover the structure of elf files, what symbols are for and then display them. You have to emulate the nm cli command (linux)
         - [julia and mandelbrot fractals explorer](https://github.com/shaolin-peanut/fract-ol)
         - [libasm](https://github.com/shaolin-peanut/libasm). mini project to learn the basics of Intel 64 assembly
        	- [Minishell](https://github.com/shaolin-peanut/Minishell). Writing a subset of bash's features. One of my favorite 42 projects
